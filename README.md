@@ -10,7 +10,6 @@ I am interested in application security, human-centered security, and web develo
 | Project | Focus | Current stage |
 | --- | --- | --- |
 | [AON — Adaptive Online Protection](projects/aon.md) | Behavioral signals and adaptive phishing warnings on Android | GP1 research, requirements and design; implementation and study planned |
-| [GradPilot](projects/gradpilot.md) | Career planning for IT and cybersecurity graduates | Web prototype in development |
 | [Secure University Portal](projects/secure-university-portal.md) | RBAC, least privilege and authorization test scenarios | Academic security design and presentation |
 | [University Maintenance Request System](projects/maintenance-request-system.md) | Requirements, data flows and system modeling | Academic analysis and design |
 
@@ -27,7 +26,7 @@ I am interested in application security, human-centered security, and web develo
 
 Through AON, my team is designing a controlled Android prototype that combines interaction signals with phishing indicators. The research report and evaluation plan are prepared; no participant study results are claimed.
 
-I am also developing GradPilot and strengthening my practical skills in secure web development.
+I am strengthening my practical skills in secure web development.
 
 أدرس تقنية المعلومات بمسار الأمن السيبراني، وأهتم بأمن التطبيقات والحماية التي تراعي المستخدم.
 

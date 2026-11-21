@@ -5,7 +5,6 @@ This index documents my personal and university work. Descriptions reflect the e
 | Work | Type / role | Evidence and scope | Status |
 | --- | --- | --- | --- |
 | [AON](aon.md) | Graduation project; team member | GP1 report, related-work comparison, requirements, UML, privacy and evaluation plan | Research and design; implementation and participant study planned |
-| [GradPilot](gradpilot.md) | Personal web project developed with AI assistance | Existing Next.js/TypeScript source repository; auth, profile, assessment, GitHub and roadmap modules | Prototype in development; full end-to-end validation pending |
 | [Secure University Portal](secure-university-portal.md) | IT463 team project | RBAC security architecture, role permissions and proposed test cases | Academic design and presentation |
 | [University Maintenance Request System](maintenance-request-system.md) | IS413 team project | Requirements, DFD/ER/UML models, input form and output report designs | Academic analysis and design |
 | [Study-Room Reservation](academic-case-studies.md#campus-study-room-reservation) | IS413 assignment | Context diagram and reservation-process decomposition | Modeling assignment |
